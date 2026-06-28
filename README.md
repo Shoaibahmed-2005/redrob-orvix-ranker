@@ -1,3 +1,13 @@
+---
+title: Orvix Candidate Ranker
+emoji: 🏆
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
+
 # Redrob Hackathon: Intelligent Candidate Ranker
 
 This repository contains the complete local, deterministic, CPU-only candidate ranking system for the Intelligent Candidate Discovery & Ranking Challenge.
