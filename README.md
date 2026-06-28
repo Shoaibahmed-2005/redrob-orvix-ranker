@@ -96,4 +96,4 @@ Upload the `sample_candidates.json` file into the UI to see a real-time data tab
  ┗ 📜 submission_metadata.yaml
 ```
 
-*Built with ❤️ by Team Orvix.*
+*Engineered by Team Orvix for the Redrob Intelligent Candidate Discovery & Ranking Challenge.*
