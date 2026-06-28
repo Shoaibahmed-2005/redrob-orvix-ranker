@@ -10,6 +10,8 @@ pinned: false
 
 # 🏆 Team Orvix: Intelligent Candidate Discovery & Ranking
 
+[![Live Sandbox Demo](https://img.shields.io/badge/Live_Sandbox_Demo-%F0%9F%9A%80_Click_Here-FF9D00?style=for-the-badge)](https://huggingface.co/spaces/Shoaibahmedsheriff/Orvix-ranker)
+
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Status: Complete](https://img.shields.io/badge/Status-Complete-success.svg)]()
