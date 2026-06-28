@@ -1,0 +1,13 @@
+team_name: "Orvix"
+primary_contact_name: "Shoaib Ahmed Sheriff"
+primary_contact_email: "shoaib2284@gmail.com"
+primary_contact_phone: "9940086123"
+github_repository_url: "https://github.com/Shoaibahmed-2005/redrob-orvix-ranker.git"
+sandbox_demo_link: "[TO BE ADDED AFTER HUGGINGFACE DEPLOYMENT]"
+ai_tools_declared: ["Gemini 3.1 Pro"]
+compute_environment_summary: "Local machine, CPU only, <16GB RAM, Python 3.11"
+team_member_list:
+  - name: "Shoaib Ahmed Sheriff"
+    email: "shoaib2284@gmail.com"
+  - name: "Zayem Nadeem"
+    email: "zayemnadeem2005@gmail.com"
